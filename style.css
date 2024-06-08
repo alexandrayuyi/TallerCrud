@@ -1,0 +1,29 @@
+td {
+    vertical-align: middle;
+
+
+}
+
+.mini-color {
+    margin: auto;
+    width: 50px;
+    height: 50px;
+    padding: 0;
+}
+
+.img {
+    margin: auto;
+    width: 100px;
+    height: 50px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+body {
+    background-color: rgb(64, 85, 244);
+}
+
+#table {
+    height: 100%;
+    background-color: white;
+}
